@@ -1,0 +1,6 @@
+export const GET_TO_MAIL_START = 'GET_TO_MAIL_START';
+export const GET_TO_MAIL_SUCCESS = 'GET_TO_MAIL_SUCCESS';
+export const GET_TO_MAIL_FAIL = 'GET_TO_MAIL_FAIL';
+export const CHANGE_STATUS_MAIL = 'CHANGE_STATUS_MAIL';
+export const ADD_NEW_TO_MAIL = 'ADD_NEW_TO_MAIL';
+export const DELETE_TO_MAIL = 'DELETE_TO_MAIL';

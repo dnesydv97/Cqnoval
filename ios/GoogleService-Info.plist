@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>299631363355-d1ecj0f6hb0aunmiq5tkosfqdcb7av1r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.299631363355-d1ecj0f6hb0aunmiq5tkosfqdcb7av1r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>299631363355-m16nt0rvatuebc5s6r8qcpp9jn1fnuak.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfGuCpv2rMVs1uXAwduXr_Pg99XMvDgks</string>
+	<key>GCM_SENDER_ID</key>
+	<string>299631363355</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cqnovalmobile</string>
+	<key>PROJECT_ID</key>
+	<string>cqnovel</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cqnovel.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:299631363355:ios:1d94b44c015bd6a149bfbe</string>
+</dict>
+</plist>
